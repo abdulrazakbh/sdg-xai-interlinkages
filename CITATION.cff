@@ -5,11 +5,19 @@ version: 1.0.0
 date-released: 2026-10-10
 license: MIT
 authors:
-  - family-names: "Razak"
-    given-names: "B. H. Abdul"
-    affiliation: "Department of Civil Engineering, JSS Academy of Technical Education, Bengaluru, India"
+  - family-names: "B. H."
+    given-names: "Abdul Razak"
+    affiliation: "Department of Civil Engineering, JSS Academy of Technical Education, Bengaluru 560060, India"
     email: "abdulrazak.b.h@gmail.com"
-# Add co-authors here in the same format before release.
+  - family-names: "S. M."
+    given-names: "Rashmi"
+    affiliation: "Department of Civil Engineering, JSS Academy of Technical Education, Bengaluru 560060, India; Department of Civil Engineering, JSS Science and Technology University, Mysuru 570006, India"
+    email: "rashmiraghu.sm@gmail.com"
+  - family-names: "Akki"
+    given-names: "Basavaraj"
+    affiliation: "Department of Civil Engineering, JSS Academy of Technical Education, Bengaluru 560060, India; Transportation Division, Department of Civil Engineering, National Institute of Technology, Warangal 506004, Telangana, India"
+  - family-names: "N. C."
+    given-names: "Sanjay Shekar"
 keywords:
   - Sustainable Development Goals
   - SDG interlinkages
