@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite it as below."
+title: "Importance is not impact: code and data for an explainable and double machine learning analysis of infrastructure-related SDG interlinkages"
+version: 1.0.0
+date-released: 2026-10-10
+license: MIT
+authors:
+  - family-names: "Razak"
+    given-names: "B. H. Abdul"
+    affiliation: "Department of Civil Engineering, JSS Academy of Technical Education, Bengaluru, India"
+    email: "abdulrazak.b.h@gmail.com"
+# Add co-authors here in the same format before release.
+keywords:
+  - Sustainable Development Goals
+  - SDG interlinkages
+  - explainable artificial intelligence
+  - SHAP
+  - double machine learning

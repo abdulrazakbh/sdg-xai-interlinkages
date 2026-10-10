@@ -1,0 +1,26 @@
+indicator,indicator_name,years_with_data,first_year,latest_year
+9.1.1,Rural pop. within 2 km of all-season road,,,
+9.1.2,Passenger and freight volumes,14.0,2010.0,2023.0
+9.2.1,Manufacturing value added,14.0,2010.0,2023.0
+9.4.1,CO2 per unit of value added,14.0,2010.0,2023.0
+9.5.1,R&D expenditure (% GDP),11.0,2010.0,2020.0
+9.5.2,Researchers per million,4.0,2010.0,2020.0
+9.c.1,Mobile network coverage,12.0,2012.0,2023.0
+11.1.1,Urban population in slums,2.0,2018.0,2019.0
+11.2.1,Convenient access to public transport,,,
+11.3.1,Land consumption / population growth,,,
+11.6.1,Municipal solid waste collected & managed,,,
+11.6.2,Urban PM2.5,14.0,2010.0,2023.0
+6.1.1,Safely managed drinking water,14.0,2010.0,2023.0
+6.2.1,Safely managed sanitation,14.0,2010.0,2023.0
+6.4.1,Water-use efficiency,14.0,2010.0,2023.0
+6.4.2,Water stress,14.0,2010.0,2023.0
+7.1.1,Access to electricity,14.0,2010.0,2023.0
+7.1.2,Clean cooking fuels,14.0,2010.0,2023.0
+7.2.1,Renewable share of final energy,14.0,2010.0,2023.0
+7.3.1,Energy intensity,14.0,2010.0,2023.0
+3.6.1,Road traffic death rate,1.0,2021.0,2021.0
+12.5.1,National recycling rate,,,
+17.6.1,Fixed broadband subscriptions,14.0,2010.0,2023.0
+17.8.1,Internet users,14.0,2010.0,2023.0
+1.1.1,Population below intl. poverty line,2.0,2011.0,2022.0

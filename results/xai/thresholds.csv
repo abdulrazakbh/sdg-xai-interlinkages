@@ -1,0 +1,11 @@
+outcome,model,driver,label,effect_flattens_at,scale
+11.1.1,level,7.1.2,Clean cooking fuels,,raw
+11.1.1,level,17.6.1,Fixed broadband,3.806532663316583,raw
+11.6.2,level,6.4.2,Water stress,,log
+11.6.2,level,7.1.2,Clean cooking fuels,,raw
+9.4.1,level,7.2.1,Renewable energy share,,raw
+9.4.1,level,6.4.1,Water-use efficiency,,log
+9.c.1,level,17.6.1,Fixed broadband,3.0452261306532664,raw
+9.c.1,level,7.1.1,Electricity access,,raw
+9.2.1,level,6.1.1,Safe drinking water,,raw
+9.2.1,level,7.1.2,Clean cooking fuels,,raw
